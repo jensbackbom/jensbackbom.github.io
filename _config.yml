@@ -3,10 +3,11 @@ permalink:           pretty
 
 # Setup
 title:               Jens Bäckbom
-tagline:             Personal blog
+tagline:             Lite av varje
 url:                 http://www.jensbackbom.com
 paginate:            1
 baseurl:             ""
+analytics_id:        UA-63356511-1
 
 # Assets
 #
