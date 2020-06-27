@@ -1,30 +1,23 @@
 ---
 layout: page
-title: About
+title: Hi!
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My name is Jens Bäckbom and I am a venture capital investor working for Almi Invest in Stockholm, Sweden.
+I am currently working with seven of our portfolio companies: [Learnster](http://www.learnster.se), [Roaring.io](http://www.roaring.io), [Lingio](http://www.lingio.com/), [EVAM Systems](http://www.evam.life/), [Alva Labs](http://www.alvalabs.io/), [ZealID](http://www.zealid.com) and [Typelane](http://www.typelane.com).
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Before I started working at Almi Invest 2017 I was an entrepreneur for nine years, working with
+[Benchmarking Alliance](http://www.benchmarkingalliance.com/) and
+A3J Consulting (subsequently sold to [Dreams](https://www.getdreams.com/)) where I did everything from sales to system development (mainly Python/Django and various JS frameworks). Some other examples of work I've done in my career include:
+- Restructuring of a newspaper division in an Eastern European country
+- Research and strategy work for AstraZeneca on remote work and collaboration tools
+- LTV and cohort modelling for Stardoll and Lifesum
+- Headhunting for EA DICE, processing thousands of candidates and hiring a bunch
+- Pricing and sales strategy study for a major Nordic hotel chain
 
-There are currently two themes built on Poole:
+I am a big fan of lifelong learning and see myself as a generalist rather than a specialist -
+I have an MSc degree in Engineering Physics and another one in Finance and I've written a book on common misjudgements and biases.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Hopefully I'll be able to share some lessons here, more to come soon.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Meanwhile, follow me on [Twitter](https://www.twitter.com/jensbackbom/).

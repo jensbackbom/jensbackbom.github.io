@@ -4,7 +4,7 @@
  <title>Jens Bäckbom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-25T14:08:16+02:00</updated>
+ <updated>2020-06-27T21:41:37+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jens Bäckbom</name>
@@ -13,51 +13,40 @@
 
  
  <entry>
-   <title>Att rekrytera utvecklare på en stekhet marknad - några konkreta tips</title>
-   <link href="http://localhost:4000/2018/02/05/rekrytera-utvecklare/"/>
-   <updated>2018-02-05T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2018/02/05/rekrytera-utvecklare</id>
-   <content type="html">&lt;p&gt;(ursprungligen skriven på LinkedIn)&lt;/p&gt;
+   <title>Hiring developers - lessons from screening 1000+ applications</title>
+   <link href="http://localhost:4000/2020/06/25/hiring-developers/"/>
+   <updated>2020-06-25T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2020/06/25/hiring-developers</id>
+   <content type="html">&lt;p&gt;If you are a decent developer looking for a job you won’t have any problems whatsoever finding one. However, the opposite is true if you want to &lt;em&gt;hire&lt;/em&gt; developers (unless you’re Google or Spotify), especially if you’re not hiring a lot of them. Having worked with dozens of companies looking to hire tech talent, and having screened thousands of candidates as part of consulting gigs I have seen some approaches work better than others to find, attract and keep developers.&lt;/p&gt;
 
-&lt;p&gt;Om du är en duktig programmerare så har du idag inga som helst problem att hitta jobb. Behärskar du tekniker där det råder stor brist på utvecklare kan du dessutom förhandla dig till en hel del förmåner såsom hög lön, möjlighet att jobba hemifrån, träna på arbetstid och få gratis lunch på jobbet. I vissa specialfall (om du t.ex. är riktigt vass på COBOL eller Sharepoint) så kan du i princip begära vilken lön / ersättning som helst.&lt;/p&gt;
+&lt;p&gt;To &lt;em&gt;find&lt;/em&gt; developers, there are hundreds of channels you can use and you’ll just have to test some of them. &lt;a href=&quot;http://www.stackoverflow.com/&quot;&gt;Stackoverflow.com&lt;/a&gt; is probably one of my favorites since you can target your specific tech stack there (If you’re looking for Python developers you can choose to have your ad displayed next to questions about python). If you’re fine with hiring remote talent, you might want to consider &lt;a href=&quot;https://weworkremotely.com/&quot;&gt;WeWorkRemotely&lt;/a&gt; or &lt;a href=&quot;https://remoteok.io/&quot;&gt;RemoteOK&lt;/a&gt; but I can’t vouch for them since I have mainly worked with remote freelancers rather than employees. I can recommend &lt;a href=&quot;https://wearefram.com/&quot;&gt;Fram&lt;/a&gt; specifically for Vietnamese tech talents though.&lt;/p&gt;
 
-&lt;p&gt;Det motsatta gäller förstås om du vill &lt;em&gt;rekrytera&lt;/em&gt; programmerare, åtminstone om du inte heter Google eller Spotify. Att hitta programmerare samt övertyga hen om att jobba hos dig kan vara helt hopplöst svårt, och är du inte själv teknikkunnig så blir det inte lättare. Jag har genom tidigare arbete och företagande varit inblandad i en hel del rekrytering, och har över tid sett några olika taktiker för att hitta och behålla teknikkompetens. Nedan följer några tips på hur man kan gå tillväga:&lt;/p&gt;
-
-&lt;p&gt;För att &lt;em&gt;hitta&lt;/em&gt; utvecklarna:&lt;/p&gt;
+&lt;p&gt;To make developers &lt;em&gt;interested&lt;/em&gt; in you, these are some best practices that I’ve seen work:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Annonsera på &lt;a href=&quot;http://www.stackoverflow.com/&quot;&gt;Stackoverflow.com&lt;/a&gt; mot specifika tekniker — om du letar efter en pythonutvecklare så kan du välja att annonsera på frågesidor som handlar just om python. Detta är förmodligen den mest träffsäkra metoden för att rätt personer ska få syn på din annons.&lt;/li&gt;
-  &lt;li&gt;Facebookgruppen &lt;a href=&quot;https://www.facebook.com/groups/500518803365453/&quot; target=&quot;_blank&quot;&gt;Jobb för kodapor&lt;/a&gt; är bra att annonsera i också, sitt namn till trots.&lt;/li&gt;
-  &lt;li&gt;Outsourca via &lt;a href=&quot;http://www.freelancer.com/&quot; target=&quot;_blank&quot;&gt;Freelancer.com&lt;/a&gt;, &lt;a href=&quot;http://www.odesk.com/&quot;&gt;ODesk&lt;/a&gt;, &lt;a href=&quot;http://www.elance.com/&quot; target=&quot;_blank&quot;&gt;Elance&lt;/a&gt; eller &lt;a href=&quot;http://www.toptal.com/&quot; target=&quot;_blank&quot;&gt;TopTal&lt;/a&gt; — i första hand lämpligt för kortare uppdrag där du vet vad som behöver göras. Ju mer erfaren beställare du är desto bättre.&lt;/li&gt;
-  &lt;li&gt;Utannonsera ett eller flera exjobb, men bara om ni kan erbjuda kvalificerad handledning — här kan man t.ex. använda sig av min egen webbsajt &lt;a href=&quot;http://www.exjobb.com/&quot; target=&quot;_blank&quot;&gt;www.exjobb.com&lt;/a&gt;, eller högskolornas egna exjobbssidor.&lt;/li&gt;
+  &lt;li&gt;Describe some of the actual &lt;em&gt;problems&lt;/em&gt; you want solved, rather than just putting up a generic ad for a backend developer. Preferably you should mention open-ended problems (like &lt;em&gt;we need to pick a new frontend framework&lt;/em&gt;) as well as specific challenges (&lt;em&gt;we need integrations with Zapier and Airtable&lt;/em&gt;).&lt;/li&gt;
+  &lt;li&gt;In as much detail as possible, tell them what’s unique about your company - but avoid cliches.&lt;/li&gt;
+  &lt;li&gt;Describe your tech team (if there is one): Who would your candidate be working with? What products are you proud of, and why? Are there any specific technical challenges that you have overcome, and how?&lt;/li&gt;
+  &lt;li&gt;Talk about the recruitment process: A professional process is not only a way to find the right people, it can also be critical for attracting the right people to begin with. If you know that you’re going to be properly assessed, that means that so were your future co-workers and therefore they are competent.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;För att göra dem &lt;em&gt;intresserade&lt;/em&gt; av er:&lt;/p&gt;
+&lt;p&gt;To &lt;em&gt;assess their skills&lt;/em&gt;, you should try to understand:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Beskriv några av de problem du vill lösa istället för att utannonsera en generisk tjänst — variera gärna öppna problem med specifika utmaningar. Detta är en väldigt bra metod för att hitta rätt personer, se t.ex. denna bloggpost för inspiration.&lt;/li&gt;
-  &lt;li&gt;Berätta så tydligt som möjligt om vad som gör er organisation unik, men undvik floskler och tomma ord. Titta gärna på vad era konkurrenter skriver, och försök hitta sätt att sticka ut — och med konkurrenter menas förstås andra företag som letar efter samma teknikkompetens som du, inte företag du i vanliga fall konkurrerar med.&lt;/li&gt;
-  &lt;li&gt;Berätta om er teknikorganisation (om det finns en sådan): Vem kommer man att få jobba med? Vilka förutsättningar får man för att göra ett bra jobb? (se nedan) Vilka projekt/produkter är ni mest stolta över att ha gjort och varför? Hur ser er produkt ut under huven?&lt;/li&gt;
-  &lt;li&gt;Berätta om din rekryteringsprocess: En professionell process är inte bara ett sätt att hitta rätt personer, den kan dessutom vara avgörande för att rätt personer ska söka arbete hos er. Om man vet att man kommer att bli ordentligt utvärderad så innebär ju det att ens blivande kollegor också blivit det, och att de därmed är kompetenta.&lt;/li&gt;
+  &lt;li&gt;Are they competent within their needed area of expertise? There are no shortcuts here - you need to see examples of their work. It can be code that they’ve written before (at work, or contributions to public github repos) or some kind of code test. Beware though - unless you’re certain that you have a strong employer brand, you should be cautious with giving assignments that require your candidates to spend hours of their free time. Instead, try to cover as much ground as possible during your interviews - one effective way is to show several short code snippets and ask your candidate questions about them: What language is this, what does the code do, why doesn’t it work etc.&lt;/li&gt;
+  &lt;li&gt;Can they make strategic choices with regards to technology? This is more important if you’re in a startup where a lot of choices regarding your tech stack are yet to be made. Ask your candidate about earlier choices that he/she made!&lt;/li&gt;
+  &lt;li&gt;Can they ask for help? Programming is a line of work where you can “get stuck” in ways that other professions can’t. Sometimes you just don’t know why your code doesn’t work, and you shouldn’t be afraid to ask for help once that happens. One (slightly evil) way of testing this might be to give an interview question where there’s a missing piece of information, and see if the candidate dares to ask for help.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;För att &lt;em&gt;utvärdera&lt;/em&gt; dem, undersök bland annat:&lt;/p&gt;
+&lt;p&gt;Once you’ve hired them, these are some general tips to &lt;em&gt;retain&lt;/em&gt; your developers:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Är de kompetenta inom sitt teknikområde? Här finns det inga genvägar: Man behöver se någon form av arbetsprov. Antingen kan det handla om kod från tidigare projekt, eller ett kodtest. Om du inte vet att du är en eftertraktad arbetsplats så bör du undvika att ge “hemläxor” inför en intervju, det kan avskräcka vissa och dessutom ska det räcka att utvärdera någon i en intervju.&lt;/li&gt;
-  &lt;li&gt;Kan de göra strategiska teknikval? Åtminstone i små företag så kan val av teknik vara otroligt avgörande på sikt. Man vill gärna välja en robust teknik som har en någotsånär bred användarskara, denna artikel kan ge viss vägledning.&lt;/li&gt;
-  &lt;li&gt;Kan de be om hjälp? I programmering kan man “köra fast” i sitt arbete på ett sätt som saknar motstycke i många andra arbeten. Här är det A och O att kunna be om hjälp för att kunna jobba effektivt, vilket du helst vill utvärdera i en intervju. Ett sätt kan vara att ge ett problem där någon komponent saknas, och se om kandidaten vågar fråga eller inte.&lt;/li&gt;
+  &lt;li&gt;Give them everything they need in terms of equipment: A great computer (don’t underspend here!), great software (let everyone work with their favorite tools as often as you can), a quiet room of their own (sitting in an office landscape together with eg. salespeople can be devastating) and a proper budget for courses, books and resources they might need to keep their skills up to date.&lt;/li&gt;
+  &lt;li&gt;Make sure that there are always at least some interesting technical challenges to work with - this might be as simple as giving people responsability and avoiding micro-management.&lt;/li&gt;
+  &lt;li&gt;Be an altogether great place to work, where developers as well as non-developers feel safe and are not afraid to speak their minds.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Hur du övertygar dem om att börja jobba hos er samt får dem att stanna kvar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ge bästa möjliga förutsättningar för att göra ett bra jobb: En riktigt bra arbetsdator, bra mjukvara (låt var och en jobba med sina favoritprogram i så hög utsträckning som möjligt), ett avskilt arbetsrum där det är tyst (kontorslandskap där utvecklare blandas med annan personal är t.ex. helt förödande) och bra möjligheter till fortbildning.&lt;/li&gt;
-  &lt;li&gt;Se till att det finns intressanta tekniska utmaningar att arbeta med — detta kan helt enkelt handla om att ge personer ansvar och undvika att detaljstyra.&lt;/li&gt;
-  &lt;li&gt;Var en alltigenom bra och schysst arbetsplats, där såväl tekniker som icke-tekniker trivs. Detta kan man skriva en hel bok om, så här gäller vanligt sunt förnuft. Var inkluderande och sträva efter en mångfald av personligheter, bakgrund och kompetens.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Dessa var några konkreta tips på saker man kan tänka på när man rekryterar teknikkompetens. Tips mottages tacksamt på andra saker man bör tänka på, jag tänkte försöka hålla denna artikel lite levande så kom gärna med input!&lt;/p&gt;
+&lt;p&gt;These were some practical things to keep in mind when recruiting tech talent. Happy to hear your thoughts and comments on how this list can be expanded! (Easiest way is probably to follow me on &lt;a href=&quot;http://www.twitter.com/jensbackbom/&quot;&gt;Twitter&lt;/a&gt;) and send me a DM)&lt;/p&gt;
 </content>
  </entry>
  
