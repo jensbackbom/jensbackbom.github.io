@@ -4,13 +4,49 @@
  <title>Jens Bäckbom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-06-27T21:56:11+02:00</updated>
+ <updated>2020-06-30T12:52:27+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jens Bäckbom</name>
    <email>jens.backbom@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>You're gonna have to serve somebody</title>
+   <link href="http://localhost:4000/2020/06/30/youre-gonna-have-to-serve-somebody/"/>
+   <updated>2020-06-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2020/06/30/youre-gonna-have-to-serve-somebody</id>
+   <content type="html">&lt;p&gt;It may be the devil or it may be the lord, but you’re gonna have to serve somebody.&lt;/p&gt;
+
+&lt;p&gt;It may be &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Your blog readers&lt;/li&gt;
+  &lt;li&gt;Your podcast listeners&lt;/li&gt;
+  &lt;li&gt;Your 1 000 true fans&lt;/li&gt;
+  &lt;li&gt;Your 25 000 followers&lt;/li&gt;
+  &lt;li&gt;Your subreddit&lt;/li&gt;
+  &lt;li&gt;Your book publisher&lt;/li&gt;
+  &lt;li&gt;Your Substack newsletter subscribers&lt;/li&gt;
+  &lt;li&gt;Your Gumroad e-book buyers&lt;/li&gt;
+  &lt;li&gt;Your growth hacking course participants&lt;/li&gt;
+  &lt;li&gt;Your mentees&lt;/li&gt;
+  &lt;li&gt;Your yoga class &lt;/li&gt;
+  &lt;li&gt;Your dataset&lt;/li&gt;
+  &lt;li&gt;Your mortgage lender&lt;/li&gt;
+  &lt;li&gt;Your virtual assistant&lt;/li&gt;
+  &lt;li&gt;Your kids&lt;/li&gt;
+  &lt;li&gt;Your investors&lt;/li&gt;
+  &lt;li&gt;The journalists&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;…or it may be your mind. But you’re gonna have to serve somebody.&lt;/p&gt;
+
+&lt;p&gt;Credits to Bob Dylan. &lt;/p&gt;
+
+&lt;p&gt;Follow me on &lt;a href=&quot;http://www.twitter.com/jensbackbom/&quot;&gt;Twitter&lt;/a&gt; for more occasional cynicism.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Hiring developers - lessons from screening 1000+ applications</title>
