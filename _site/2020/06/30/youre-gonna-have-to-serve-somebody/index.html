@@ -31,6 +31,8 @@
   
   <!-- end of Twitter cards -->
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
   <style type="text/css">
 
     @font-face {
@@ -64,6 +66,29 @@
 
   </style>
 
+  <style type="text/css">
+    #type, #type li, #industry, #industry li, #service, #service li, #focus, #focus li, #market, #market li, #meningstart, #meningslut, #person, #meningstart li, #meningslut li, #person li{
+      margin:0;
+      padding:0;
+      list-style:none;
+      }
+    #type, #industry, #service, #focus, #market{
+      /*width:250px;*/
+      /*font-size:16px;*/
+      line-height:120%;
+      }
+    #industry li, #type li, #service li, #focus li, #market li{
+      padding:12px;
+      font-weight: bold;
+      background: #eaeaea;
+      display:none; /* hide the items at first only */
+      }
+    #meningstart li, #meningslut li, #person li{
+      display:none; /* hide the items at first only */
+      }
+
+  </style>
+
   <!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>You’re gonna have to serve somebody | Jens Bäckbom</title>
 <meta name="generator" content="Jekyll v3.8.7" />
@@ -92,6 +117,7 @@
           <a href="/" title="Home">Jens Bäckbom</a>
           <!--<small>Seen and done</small>-->
           <small style="float:right;margin-top:3px;">
+            <a href="/businessideas/" style="margin-right:5px;">Business Ideas</a>
             <a href="/about/" style="margin-right:5px;">About</a>
             <a class="icon-twitter-squared" href="https://www.twitter.com/jensbackbom/" title="Twitter"></a>
             <a class="icon-linkedin-squared" href="https://www.linkedin.com/in/jensbackbom/" title="LinkedIn"></a>
@@ -164,7 +190,7 @@
 
       <footer class="footer">
         <small>
-          &copy; <time datetime="2020-07-03T10:33:00+02:00">2020</time> Jens Bäckbom.
+          &copy; <time datetime="2020-07-05T07:32:59+02:00">2020</time> Jens Bäckbom.
         </small>
       </footer>
     </div>

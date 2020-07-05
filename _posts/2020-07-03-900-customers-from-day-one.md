@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How we beat existing network effects and got 900 customers from day one
+related_image: /assets/img/ba_screenshot.png
 ---
 
 In 2011 my company Benchmarking Alliance outmaneuvered a competitor that – in theory

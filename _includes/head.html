@@ -35,6 +35,8 @@
   {% endif %}
   <!-- end of Twitter cards -->
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
   <style type="text/css">
 
     @font-face {
@@ -65,6 +67,29 @@
     .icon-twitter-squared:before { content: '\f304'; } /* '' */
     .icon-linkedin-squared:before { content: '\f30c'; }
     .icon-rss-squared:before { content: '\e85d'; }
+
+  </style>
+
+  <style type="text/css">
+    #type, #type li, #industry, #industry li, #service, #service li, #focus, #focus li, #market, #market li, #meningstart, #meningslut, #person, #meningstart li, #meningslut li, #person li{
+      margin:0;
+      padding:0;
+      list-style:none;
+      }
+    #type, #industry, #service, #focus, #market{
+      /*width:250px;*/
+      /*font-size:16px;*/
+      line-height:120%;
+      }
+    #industry li, #type li, #service li, #focus li, #market li{
+      padding:12px;
+      font-weight: bold;
+      background: #eaeaea;
+      display:none; /* hide the items at first only */
+      }
+    #meningstart li, #meningslut li, #person li{
+      display:none; /* hide the items at first only */
+      }
 
   </style>
 

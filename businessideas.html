@@ -1,0 +1,138 @@
+---
+layout: default
+title: SaaS Business Idea Generator
+---
+
+<div class="posts">
+  <article class="post">
+    <h1 class="post-title">
+        4200 free SaaS business ideas
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+    Are you looking for a SaaS business idea? I can help! By using my SaaS idea generator below you should be able
+    to get some inspiration. Some ideas are great, some are fantastic.
+
+    <div id="punchline" style="margin-bottom:20px;"></div>
+
+    <div style="float:left;">
+  	<ul id="type">
+  	  <li>A web app</li>
+  	  <li>A mobile app</li>
+  	  <li>A database</li>
+  	  <li>A survey tool</li>
+      <li>A community</li>
+  	</ul>
+  	</div>
+  	<div style="float:left;padding:10px;">
+  	that helps
+  	</div>
+  	<div style="float:left;">
+  	<ul id="industry">
+  	  <li>hotels</li>
+  	  <li>restaurants</li>
+  	  <li>lawyers</li>
+  	  <li>real estate agents</li>
+  	  <li>hairdressers</li>
+  	  <li>electricians</li>
+  	  <li>architects</li>
+  	  <li>construction firms</li>
+  	  <li>web designers</li>
+  	  <li>game developers</li>
+  	  <li>camping venues</li>
+  	  <li>sports associations</li>
+  	  <li>oil companies</li>
+  	  <li>horse breeders</li>
+  	  <li>dentists</li>
+  	  <li>hospitals</li>
+  	  <li>tourism agencies</li>
+  	  <li>manufacturers</li>
+  	  <li>grocery stores</li>
+  	  <li>ad agencies</li>
+  	  <li>IT consultants</li>
+  	  <li>fast food outlets</li>
+  	  <li>retail businesses</li>
+      <li>small businesses</li>
+      <li>Instagrammers</li>
+      <li>Twitter users</li>
+      <li>Substack users</li>
+      <li>Gumroad creators</li>
+      <li>E-mail marketers</li>
+      <li>developers</li>
+      <li>recruiters</li>
+      <li>CEOs</li>
+      <li>COOs</li>
+      <li>CTOs</li>
+      <li>CMOs</li>
+  	</ul>
+  	</div>
+  	<div style="float:left;padding:5px;">
+  	</div>
+  	<div style="float:left;">
+  	<ul id="service">
+  	  <li>set their prices</li>
+  	  <li>manage suppliers</li>
+  	  <li>sell excess capacity</li>
+  	  <li>benchmark their costs</li>
+  	  <li>benchmark their prices</li>
+  	  <li>lower their costs</li>
+  	  <li>find co-founders</li>
+  	  <li>invest their profits</li>
+  	  <li>manage pensions</li>
+      <li>find more customers</li>
+  	  <li>localize their service</li>
+      <li>expand to new markets</li>
+  	  <li>find right suppliers</li>
+  	  <li>identify unhappy customers</li>
+  	  <li>survey their customers</li>
+  	  <li>reach more customers</li>
+  	  <li>pick right marketing channels</li>
+  	  <li>get Twitter followers</li>
+  	  <li>build a community</li>
+  	  <li>become more creative</li>
+      <li>hide their side hustle</li>
+      <li>reach 1000 true fans</li>
+      <li>monetize their audience</li>
+      <li>grow their e-mail list</li>
+  	</ul>
+  	</div>
+  	<div style="clear:both;margin-bottom:20px;"></div>
+
+    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.jensbackbom.com/businessideas/" data-text="If you need a business idea:" data-lang="sv" data-size="large">Tweet it</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+  </article>
+</div>
+
+
+<script type="text/javascript">
+
+    this.randomtip = function(){
+	    var length = $("#type li").length;
+	    var ran = Math.floor(Math.random()*length) + 1;
+	    $("#type li:nth-child(" + ran + ")").show();
+
+	    var possibilities = length;
+
+	    length = $("#industry li").length;
+	    ran = Math.floor(Math.random()*length) + 1;
+	    $("#industry li:nth-child(" + ran + ")").show();
+
+	    possibilities = possibilities * length;
+
+	    length = $("#service li").length;
+	    ran = Math.floor(Math.random()*length) + 1;
+	    $("#service li:nth-child(" + ran + ")").show();
+
+	    possibilities = possibilities * length;
+
+	    $("#punchline").html("Right now I have <strong>"+possibilities+"</strong> free SaaS ideas for you, such as:");
+
+    };
+
+    $(document).ready(function(){
+	    randomtip();
+    });
+
+    </script>
