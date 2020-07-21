@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Jens Bäckbom</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-07-15T22:40:27+02:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://www.jensbackbom.com/atom.xml" rel="self"/>
+ <link href="http://www.jensbackbom.com/"/>
+ <updated>2020-07-21T08:14:00+02:00</updated>
+ <id>http://www.jensbackbom.com</id>
  <author>
    <name>Jens Bäckbom</name>
    <email>jens.backbom@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>The next wave in higher education</title>
-   <link href="http://localhost:4000/2020/07/15/the-next-wave-in-higher-education/"/>
+   <link href="http://www.jensbackbom.com/2020/07/15/the-next-wave-in-higher-education/"/>
    <updated>2020-07-15T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2020/07/15/the-next-wave-in-higher-education</id>
+   <id>http://www.jensbackbom.com/2020/07/15/the-next-wave-in-higher-education</id>
    <content type="html">&lt;p&gt;(please read through to the end)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Universities prepare students for a career in research, not for an actual job. We need to reform higher education in order to make graduates employable on the private market. These are some of my suggestions:&lt;/strong&gt;&lt;/p&gt;
@@ -47,9 +47,9 @@
  
  <entry>
    <title>How we beat existing network effects and got 900 customers from day one</title>
-   <link href="http://localhost:4000/2020/07/03/900-customers-from-day-one/"/>
+   <link href="http://www.jensbackbom.com/2020/07/03/900-customers-from-day-one/"/>
    <updated>2020-07-03T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2020/07/03/900-customers-from-day-one</id>
+   <id>http://www.jensbackbom.com/2020/07/03/900-customers-from-day-one</id>
    <content type="html">&lt;p&gt;In 2011 my company Benchmarking Alliance outmaneuvered a competitor that – in theory
 – couldn’t be outmaneuvered due to network effects. Through a combination of the right
 organization, product features, pricing and negotiation, we took over the Nordic market for hotel KPI benchmarking.&lt;/p&gt;
@@ -137,9 +137,9 @@ dominated by a competitor even though there are network effects. I guess the gen
  
  <entry>
    <title>You're gonna have to serve somebody</title>
-   <link href="http://localhost:4000/2020/06/30/youre-gonna-have-to-serve-somebody/"/>
+   <link href="http://www.jensbackbom.com/2020/06/30/youre-gonna-have-to-serve-somebody/"/>
    <updated>2020-06-30T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2020/06/30/youre-gonna-have-to-serve-somebody</id>
+   <id>http://www.jensbackbom.com/2020/06/30/youre-gonna-have-to-serve-somebody</id>
    <content type="html">&lt;p&gt;It may be the devil or it may be the lord, but you’re gonna have to serve somebody.&lt;/p&gt;
 
 &lt;p&gt;It may be &lt;/p&gt;
@@ -173,9 +173,9 @@ dominated by a competitor even though there are network effects. I guess the gen
  
  <entry>
    <title>Hiring developers - lessons from screening 1000+ applications</title>
-   <link href="http://localhost:4000/2020/06/25/hiring-developers/"/>
+   <link href="http://www.jensbackbom.com/2020/06/25/hiring-developers/"/>
    <updated>2020-06-25T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2020/06/25/hiring-developers</id>
+   <id>http://www.jensbackbom.com/2020/06/25/hiring-developers</id>
    <content type="html">&lt;p&gt;If you are a decent developer looking for a job you won’t have any problems whatsoever finding one. However, the opposite is true if you want to &lt;em&gt;hire&lt;/em&gt; developers (unless you’re Google or Spotify), especially if you’re not hiring a lot of them. Having worked with dozens of companies looking to hire tech talent, and having screened thousands of candidates as part of consulting gigs I have seen some approaches work better than others to find, attract and keep developers.&lt;/p&gt;
 
 &lt;p&gt;To &lt;em&gt;find&lt;/em&gt; developers, there are hundreds of channels you can use and you’ll just have to test some of them. &lt;a href=&quot;http://www.stackoverflow.com/&quot;&gt;Stackoverflow.com&lt;/a&gt; is probably one of my favorites since you can target your specific tech stack there (If you’re looking for Python developers you can choose to have your ad displayed next to questions about python). If you’re fine with hiring remote talent, you might want to consider &lt;a href=&quot;https://weworkremotely.com/&quot;&gt;WeWorkRemotely&lt;/a&gt; or &lt;a href=&quot;https://remoteok.io/&quot;&gt;RemoteOK&lt;/a&gt; but I can’t vouch for them since I have mainly worked with remote freelancers rather than employees. I can recommend &lt;a href=&quot;https://wearefram.com/&quot;&gt;Fram&lt;/a&gt; specifically for Vietnamese tech talents though.&lt;/p&gt;
