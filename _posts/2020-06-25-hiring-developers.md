@@ -27,4 +27,4 @@ Once you've hired them, these are some general tips to *retain* your developers:
 
 These were some practical things to keep in mind when recruiting tech talent. Happy to hear your thoughts and comments on how this list can be expanded! (Easiest way is probably to follow me on [Twitter](http://www.twitter.com/jensbackbom/)) and send me a DM)
 
-[Swedish version](http://www.jensbackbom.se/2018/02/05/rekrytera-utvecklare/)
+(Read the [Swedish version](http://www.jensbackbom.se/2018/02/05/rekrytera-utvecklare/) instead)
