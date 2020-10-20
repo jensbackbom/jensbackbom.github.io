@@ -2,7 +2,6 @@
 layout: post
 title: Hiring developers - lessons from screening 1000+ applications
 ---
-
 If you are a decent developer looking for a job you won't have any problems whatsoever finding one. However, the opposite is true if you want to *hire* developers (unless you're Google or Spotify), especially if you're not hiring a lot of them. Having worked with dozens of companies looking to hire tech talent, and having screened thousands of candidates as part of consulting gigs I have seen some approaches work better than others to find, attract and keep developers.
 
 To *find* developers, there are hundreds of channels you can use and you'll just have to test some of them. [Stackoverflow.com](http://www.stackoverflow.com/) is probably one of my favorites since you can target your specific tech stack there (If you're looking for Python developers you can choose to have your ad displayed next to questions about python). If you're fine with hiring remote talent, you might want to consider [WeWorkRemotely](https://weworkremotely.com/) or [RemoteOK](https://remoteok.io/) but I can't vouch for them since I have mainly worked with remote freelancers rather than employees. I can recommend [Fram](https://wearefram.com/) specifically for Vietnamese tech talents though.  
@@ -27,3 +26,5 @@ Once you've hired them, these are some general tips to *retain* your developers:
 * Be an altogether great place to work, where developers as well as non-developers feel safe and are not afraid to speak their minds.
 
 These were some practical things to keep in mind when recruiting tech talent. Happy to hear your thoughts and comments on how this list can be expanded! (Easiest way is probably to follow me on [Twitter](http://www.twitter.com/jensbackbom/)) and send me a DM)
+
+[Swedish version](http://www.jensbackbom.se/2018/02/05/rekrytera-utvecklare/)
